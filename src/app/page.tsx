@@ -1,5 +1,6 @@
 import GiftUploadWrapper from "@/components/GiftUploadWrapper";
 import RulesPanel from "@/components/RulesPanel";
+import { SuccessNotification } from "@/components/SuccessNotification";
 
 export default function Home() {
   return (
@@ -28,6 +29,7 @@ export default function Home() {
         </main>
       </div>
       <RulesPanel />
+      <SuccessNotification />
     </>
   );
 }
