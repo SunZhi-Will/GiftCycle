@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+    <!-- 雪橇 -->
+    <path fill="#8B4513"
+        d="M520 400c-30 0-100-20-120-30s-200-50-200-50v80h320v-30c0 0-10 30-40 30h40z" />
+
+    <!-- 聖誕老人 -->
+    <g transform="translate(200, 280)">
+        <!-- 身體 -->
+        <path fill="#FF0000" d="M40 0c0 0-10 40-10 60s10 40 40 40s40-20 40-40s-10-60-10-60h-60z" />
+        <!-- 白色毛邊 -->
+        <path fill="#FFFFFF" d="M35 0c0 0-5 40-5 60s5 20 5 20h30s5-0 5-20s-5-60-5-60h-30z" />
+        <!-- 頭部 -->
+        <circle fill="#FFE4B5" cx="50" cy="-10" r="20" />
+        <!-- 帽子 -->
+        <path fill="#FF0000" d="M30-20c0 0 0-20 20-20s20 20 20 20s-10-10-20-10s-20 10-20 10z" />
+        <circle fill="#FFFFFF" cx="70" cy="-30" r="8" />
+        <!-- 鬍子 -->
+        <path fill="#FFFFFF" d="M40-5c0 0 10 10 20 10s20-10 20-10s-10 15-20 15s-20-15-20-15z" />
+    </g>
+
+    <!-- 禮物 -->
+    <g transform="translate(180, 300)">
+        <rect fill="#FF0000" x="0" y="0" width="20" height="20" />
+        <rect fill="#00FF00" x="25" y="0" width="20" height="20" />
+        <rect fill="#0000FF" x="50" y="0" width="20" height="20" />
+    </g>
+
+    <!-- 馴鹿 -->
+    <g transform="translate(320, 280)">
+        <path fill="#8B4513" d="M0 40c0 0 20-40 40-40s40 40 40 40c0 0-20-20-40-20s-40 20-40 20z" />
+        <circle fill="#8B4513" cx="20" cy="10" r="15" />
+        <circle fill="#FF0000" cx="25" cy="5" r="5" />
+    </g>
+</svg> 
